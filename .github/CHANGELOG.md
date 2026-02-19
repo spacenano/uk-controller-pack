@@ -1,4 +1,14 @@
-x. AIRAC (2602) - Update Southend (EGMC) SMAA altitudes
+# Changes from release 2026/01 to 2026/02
+1. Enhancement - Implemented Salisbury Information - Thanks to @mid-archie (Archie Middlefell)
+2. Bug - Fixed incorrect runway in use for EGSS (Stansted) in vATIS area profiles
+3. Enhancement - Amended radar track symbols on NERC (LAC) profiles
+4. Procedure Change (2602) - Updated Polaris ENOR frequencies in VACS configuration
+5. Enhancement - Added TopSky to Military APC profile - thanks to @Liaely (Lily Unitt)
+6. Enhancement - Removed real world TopSky SUA activations - thanks to @Liaely (Lily Unitt)
+7. Bug - Corrected danger area EGD098H naming - thanks to @Liaely (Lily Unitt)
+8. AIRAC (2602) - Updated Jersey Control (EGJJ_S_APP) frequency - thanks to @lyraongithub
+9. Bug/Enhancement - VACS Profile Improvements (added a number of useful missing positions and aliases)
+10. AIRAC (2602) - Update Southend (EGMC) SMAA altitudes
 
 # Changes from release 2025/13 to 2026/01
 1. Bug - Added .tfp alias to Heathrow_Alias.txt - thanks to @lyraongithub
